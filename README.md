@@ -1,3 +1,3 @@
 # Analyzer
 
-Simple project using Electron.
+Simple project using Electron and Photon.
